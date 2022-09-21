@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aslucas85
-- 👀 I’m interested in -> Aprender a programar.  
-- 🌱 I’m currently learning -> Algoritmos.    
+- 👀 I’m interested in -> Programação WEB.  
+- 🌱 I’m currently learning -> React.    
 - 💞️ I’m looking to collaborate on -> Projetos de acordo com minha capacidade de conhecimento.            
 - 📫 How to reach me -> Meu e-mail - aslucas.prog@gmail.com  
 <!--- 
